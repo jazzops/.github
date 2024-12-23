@@ -1,31 +1,38 @@
-## Hi there 👋
 
+# Witaj w JazzOps 👋
 
+## O nas
 
-Welcome to JazzOps
+JazzOps to zespół pasjonatów technologii, którzy tworzą innowacyjne rozwiązania z zakresu analizy danych i zarządzania inteligentnymi sieciami energetycznymi. Naszym celem jest uczynienie zarządzania energią bardziej efektywnym i dostępnym.
 
-🙋‍♀️ Introduction
+## Jak możesz pomóc? 🌈
 
-JazzOps is dedicated to providing innovative solutions for data analysis and smart grid management. Our team is passionate about leveraging technology to make energy management more efficient and accessible.
+Cieszymy się z każdej formy wsparcia i zachęcamy społeczność do współtworzenia naszego projektu! Oto kilka sposobów, w jakie możesz się zaangażować:
 
-🌈 Contribution Guidelines
+### 🔎 Znajdź zadanie
 
-We welcome contributions from the community! Here’s how you can get involved:
+*   Przejrzyj otwarte, gdzie znajdziesz zadania, które wymagają pomocy.
 
-Check our issues for tasks that need help.
-Fork the repository and create a new branch for your feature or bugfix.
-Submit a pull request with a clear description of your changes.
+### 🍴 Przygotuj zmiany
 
-👩‍💻 Useful Resources
+*   Wykonaj fork (rozwidlenie) repozytorium.
+*   Utwórz nowy branch (gałąź) dla swojej funkcji lub poprawki błędu.
 
-Documentation
-API Reference
-For any questions, feel free to start a discussion or reach out to us.
+### 🚀 Zgłoś Pull Request
 
-🍿 Fun Facts
+*   Zgłoś pull request z czytelnym opisem wprowadzonych zmian. Upewnij się, że zmiany są zgodne ze standardami projektu.
 
-Our team loves starting the day with a hearty breakfast of croissants and coffee!
+## Przydatne Zasoby 📚
 
-🧙 Markdown Power
+*   [**Dokumentacja**] - Szczegółowe informacje o projekcie.
+*   [**Dokumentacja API**] - Dokumentacja interfejsu API.
+*   **Dyskusje:** W razie pytań, zachęcamy do otwarcia lub bezpośredniego kontaktu z zespołem.
 
-Remember, you can do mighty things with the power of Markdown.
+## Ciekawostki 🍿
+
+Nasz zespół uwielbia zaczynać dzień od solidnego śniadania - rogalika i kawy!
+
+## Moc Markdown 🧙
+
+Pamiętaj, że dzięki mocy Markdown możesz dokonywać niesamowitych rzeczy! Sprawdź [Podstawy składni Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
