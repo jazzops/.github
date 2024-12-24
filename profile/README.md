@@ -5,7 +5,7 @@
 
 JazzOps to zespół pasjonatów technologii, którzy tworzą innowacyjne rozwiązania z zakresu analizy danych i zarządzania inteligentnymi sieciami energetycznymi. Naszym celem jest uczynienie zarządzania energią bardziej efektywnym i dostępnym.
 
-## Jak możesz pomóc? 🌈
+## Jak możesz pomóc? 
 
 Cieszymy się z każdej formy wsparcia i zachęcamy społeczność do współtworzenia naszego projektu! Oto kilka sposobów, w jakie możesz się zaangażować:
 
