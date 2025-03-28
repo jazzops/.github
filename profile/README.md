@@ -1,9 +1,8 @@
-
 # Witaj w JazzOps 👋
 
 ## O nas
 
-JazzOps to zespół pasjonatów technologii, którzy tworzą innowacyjne rozwiązania z zakresu analizy danych i zarządzania inteligentnymi sieciami energetycznymi. Naszym celem jest uczynienie zarządzania energią bardziej efektywnym i dostępnym.
+JazzOps to zespół pasjonatów technologii, którzy skupiają się na monitorowaniu jakości powietrza. Naszym celem jest tworzenie innowacyjnych rozwiązań, które pomagają w analizie i zarządzaniu danymi dotyczącymi czystości powietrza. Wierzymy, że dzięki naszym narzędziom i analizom przyczyniamy się do poprawy zdrowia publicznego i ochrony środowiska.
 
 ## Jak możesz pomóc? 
 
@@ -11,7 +10,7 @@ Cieszymy się z każdej formy wsparcia i zachęcamy społeczność do współtwo
 
 ### 🔎 Znajdź zadanie
 
-*   Przejrzyj otwarte, gdzie znajdziesz zadania, które wymagają pomocy.
+*   Przejrzyj otwarte zadania, gdzie znajdziesz projekty, które wymagają pomocy w zakresie monitorowania jakości powietrza.
 
 ### 🍴 Przygotuj zmiany
 
@@ -34,5 +33,4 @@ Nasz zespół uwielbia zaczynać dzień od solidnego śniadania - rogalika i kaw
 
 ## Moc Markdown 🧙
 
-Pamiętaj, że dzięki mocy Markdown możesz dokonywać niesamowitych rzeczy! Sprawdź [Podstawy składni Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+Pamiętaj, że dzięki mocy Markdown możesz dokonywać niesamowitych rzeczy! Sprawdź [Podstawy składni Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github).
